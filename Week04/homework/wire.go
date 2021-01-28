@@ -3,7 +3,7 @@ package main
 
 import (
 	"github.com/google/wire"
-	"service"
+	"github.com/geekbosszhang/Go-001/Week04/internal/service"
 )
 
 func InitializeEvent() service.Event  {
